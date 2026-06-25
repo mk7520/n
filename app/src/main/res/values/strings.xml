@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Nexus</string>
+    <string name="tab_home">الرئيسية</string>
+    <string name="tab_create">نشر منشور</string>
+    <string name="tab_profile">الملف الشخصي</string>
+    <string name="create_post_title">ماذا يدور في ذهنك؟</string>
+    <string name="post_hint">شارك أفكارك، إنجازاتك أو لحظاتك الإبداعية اليوم...</string>
+    <string name="publish">نشر المنشور</string>
+    <string name="edit_profile">تعديل الحساب</string>
+    <string name="username">الاسم الشخصي</string>
+    <string name="user_handle">اسم المستخدم الفريد (e.g., @mohammed)</string>
+    <string name="bio">النبذة التعريفية (Bio)</string>
+    <string name="save_changes">حفظ التعديلات</string>
+    <string name="comments_title">التعليقات</string>
+    <string name="comment_hint">اكتب تعليقاً لطيفاً...</string>
+    <string name="post_comment">إرسال</string>
+    <string name="no_posts">لا توجد منشورات في الخلاصة بعد.</string>
+    <string name="empty_feed_tip">كن أول من يشارك فكرة أو صورة ويلهم الآخرين!</string>
+    <string name="like_button_desc">زر الإعجاب</string>
+    <string name="comment_button_desc">زر التعليق</string>
+    <string name="share_button_desc">زر المشاركة</string>
+    <string name="posts_count">منشور</string>
+    <string name="followers_count">متابع</string>
+    <string name="following_count">يتابع</string>
+    <string name="placeholder_username">مستخدم جديد</string>
+    <string name="placeholder_handle">@user</string>
+    <string name="placeholder_bio">مرحباً بك في عالمي الجديد على نيكسس! 🌌</string>
+    <string name="toast_post_empty">الرجاء كتابة نص المنشور أولاً!</string>
+    <string name="toast_profile_updated">تم تحديث الملف الشخصي بنجاح!</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Nexus",
+  "description": "تطبيق تواصل اجتماعي احترافي ومبتكر يتيح مشاركة المنشورات والتفاعل معها وتصفح الملفات الشخصية بكل سلاسة وأناقة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
